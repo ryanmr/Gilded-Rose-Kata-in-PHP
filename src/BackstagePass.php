@@ -29,7 +29,5 @@ class BackstagePass extends Item {
     if ($this->quality > 50) {
       $this->quality = 50;
     }
-
   }
-
 }

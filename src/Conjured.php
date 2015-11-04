@@ -27,5 +27,4 @@ class Conjured extends Item {
       $this->quality = 0;
     }
   }
-
 }
