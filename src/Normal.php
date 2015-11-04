@@ -21,7 +21,6 @@ class Normal extends Item {
     if ($this->quality > 0 && $this->sellIn <= 0) {
       $this->quality -= 1;
     }
-
   }
 
 }
