@@ -1,5 +1,9 @@
 # The Gilded Rose Kata
 
+You can read my [explanation here](explanation.md).
+
+Below follows the original README and concept.
+
 ## Setup
 
 This repository includes the initial setup for this Kata, including the specs. It uses the [Kahlan library](http://kahlan.readthedocs.org/en/latest/), which you might not be familiar with. But, don't worry, there's nothing really to learn. Review the specs, and you'll understand the basic syntax in less than a minute.
@@ -37,4 +41,3 @@ We have recently signed a supplier of conjured items. This requires an update to
 "Conjured" items degrade in Quality twice as fast as normal items
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a legendary item and as such its Quality is 80 and it never alters.
-
